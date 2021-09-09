@@ -1,0 +1,9 @@
+{
+	"name": "com.nika.contentresizer",
+	"version": "1.0.0",
+	"unity": "2019.1",
+	"displayName": "Content Resizer Tool",
+	"author": "Nik A",
+	"description": "Tool that resizes a RectTransform based on objects passed to the component.\nPurpose was mainly to enable a custom-created grid inside of a scroll view as Unity's ContentSizeFitter requires a layout group.",
+	"keywords": ["Content resizer", "Content size fitter encompass all objects", "Content size fitter without layout group"]
+}
